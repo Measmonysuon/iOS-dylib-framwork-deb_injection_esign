@@ -1,0 +1,6 @@
+framework module bangkok {
+  umbrella header "bangkok.h"
+
+  export *
+  module * { export * }
+}
